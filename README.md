@@ -4,22 +4,4 @@ This project aims to build an intelligent weather prediction system using machin
 
 ---
 
-## 📁 Project Structure
-
-Smart-weather-prediction-system-using-ML/
-├── app/ # Core Python application (models, training, prediction)
-│ ├── model.py
-│ ├── train.py
-│ ├── preprocess.py
-│ └── predict.py
-├── data/ # CSV files or datasets
-│ └── weather_data.csv
-├── notebooks/ # Jupyter notebooks for exploration
-│ └── 01_data_exploration.ipynb
-├── requirements.txt # Python dependencies
-├── Dockerfile # Docker config for containerized setup
-├── docker-compose.yml # Docker Compose for local orchestration
-├── .gitignore # Git ignore rules
-├── README.md # Project documentation
-└── venv/ # Virtual environment (excluded from Git)
 
