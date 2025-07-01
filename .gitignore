@@ -1,5 +1,10 @@
+# Ignore venv
 venv/
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.ipynb_checkpoints
+.env
 .DS_Store
+data/*.csv   # optional if data is large or private
